@@ -1,0 +1,17 @@
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/bin/Debug/very_basic_fps_controller_csharp.deps.json
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/bin/Debug/very_basic_fps_controller_csharp.runtimeconfig.json
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/bin/Debug/very_basic_fps_controller_csharp.dll
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/bin/Debug/very_basic_fps_controller_csharp.pdb
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/obj/Debug/very_basic_fps_controller_csharp.csproj.AssemblyReference.cache
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/obj/Debug/very_basic_fps_controller_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/obj/Debug/very_basic_fps_controller_csharp.AssemblyInfoInputs.cache
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/obj/Debug/very_basic_fps_controller_csharp.AssemblyInfo.cs
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/obj/Debug/very_basic_fps_controller_csharp.csproj.CoreCompileInputs.cache
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/obj/Debug/very_basic_fps_controller_csharp.csproj.CopyComplete
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/obj/Debug/very_basic_fps_controller_csharp.dll
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/obj/Debug/refint/very_basic_fps_controller_csharp.dll
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/obj/Debug/very_basic_fps_controller_csharp.pdb
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/obj/Debug/very_basic_fps_controller_csharp.genruntimeconfig.cache
+/home/collinsey/Desktop/very_basic_fps_controller_cs/.godot/mono/temp/obj/Debug/ref/very_basic_fps_controller_csharp.dll

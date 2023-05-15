@@ -1,0 +1,46 @@
+[gd_scene load_steps=7 format=3 uid="uid://bj0w5crd0pwdl"]
+
+[ext_resource type="Texture2D" uid="uid://bqtgnatldtp5y" path="res://IMPORTS/textures/ground_texture.jpg" id="1_7fr70"]
+[ext_resource type="Script" path="res://SCRIPTS/player/Player.cs" id="2_t06o8"]
+
+[sub_resource type="Environment" id="Environment_rrfrg"]
+background_mode = 1
+background_color = Color(0.176471, 0.427451, 0.576471, 1)
+ambient_light_source = 2
+ambient_light_color = Color(0.627451, 0.627451, 0.627451, 1)
+ambient_light_energy = 3.0
+glow_enabled = true
+glow_intensity = 2.89
+glow_bloom = 0.2
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_5wquf"]
+size = Vector2(250, 250)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ymnj4"]
+albedo_texture = ExtResource("1_7fr70")
+uv1_scale = Vector3(200, 200, 1)
+texture_filter = 0
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_iklpg"]
+size = Vector3(1, 2, 1)
+
+[node name="PrototypeLevel1" type="Node3D"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_rrfrg")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("PlaneMesh_5wquf")
+surface_material_override/0 = SubResource("StandardMaterial3D_ymnj4")
+
+[node name="Player" type="CharacterBody3D" parent="."]
+script = ExtResource("2_t06o8")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Player"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
+shape = SubResource("BoxShape3D_iklpg")
+
+[node name="cam" type="Node3D" parent="Player"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, 0)
+
+[node name="Camera3D" type="Camera3D" parent="Player/cam"]

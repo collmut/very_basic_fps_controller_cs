@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJr3qGBYHzrjZf9geIsn/W8wzu3ZIG/i8rGeSZSVNQTF9Ya3JeXpbg8kXe1cbD+7rH6xAtmEce2+uXoZhUDvwg==",
+  "success": true,
+  "projectFilePath": "/home/collinsey/Desktop/very_basic_fps_controller_cs/very_basic_fps_controller_csharp.csproj",
+  "expectedPackageFiles": [
+    "/home/collinsey/.local/share/godot/mono/GodotNuGetFallbackFolder/godot.sourcegenerators/4.0.2/godot.sourcegenerators.4.0.2.nupkg.sha512",
+    "/home/collinsey/.local/share/godot/mono/GodotNuGetFallbackFolder/godotsharp/4.0.2/godotsharp.4.0.2.nupkg.sha512",
+    "/home/collinsey/.local/share/godot/mono/GodotNuGetFallbackFolder/godotsharpeditor/4.0.2/godotsharpeditor.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+2a60927148abd1d33b818b535e306557
+::res://::1684187241
+icon.svg::CompressedTexture2D::3073287365522039131::1684186934::1684186934::1::::<><>::
+::res://IMPORTS/::1684186934
+::res://IMPORTS/textures/::1684186934
+ground_texture.jpg::CompressedTexture2D::3549052906361965112::1684186934::1684186934::1::::<><>::
+::res://SCENES/::1684187241
+PrototypeLevel1.tscn::PackedScene::3071119199423601137::1684187241::0::1::::<><>::uid://bqtgnatldtp5y<>res://SCRIPTS/player/Player.cs
+::res://SCRIPTS/::1684186934
+::res://SCRIPTS/player/::1684186934
+Player.cs::CSharpScript::-1::1684186934::0::1::::<><>::

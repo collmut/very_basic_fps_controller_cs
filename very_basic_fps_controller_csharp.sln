@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "very_basic_fps_controller_csharp", "very_basic_fps_controller_csharp.csproj", "{BDEADFA0-118E-40DD-ADB1-5E77CB0EC898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDEADFA0-118E-40DD-ADB1-5E77CB0EC898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEADFA0-118E-40DD-ADB1-5E77CB0EC898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEADFA0-118E-40DD-ADB1-5E77CB0EC898}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{BDEADFA0-118E-40DD-ADB1-5E77CB0EC898}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{BDEADFA0-118E-40DD-ADB1-5E77CB0EC898}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{BDEADFA0-118E-40DD-ADB1-5E77CB0EC898}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal

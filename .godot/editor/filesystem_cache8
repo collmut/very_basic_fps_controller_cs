@@ -1,9 +1,11 @@
 2a60927148abd1d33b818b535e306557
-::res://::1684187943
+::res://::1684188685
 PrototypeLevel1.tscn::PackedScene::3071119199423601137::1684187278::0::1::::<><>::uid://bqtgnatldtp5y<>res://SCRIPTS/player/Player.cs
+README.md::TextFile::-1::1684188684::0::1::::<><>::
 ::res://IMPORTS/::1684186934
-::res://IMPORTS/textures/::1684186934
+::res://IMPORTS/textures/::1684188490
 ground_texture.jpg::CompressedTexture2D::3549052906361965112::1684186934::1684186934::1::::<><>::
+screenshot.png::CompressedTexture2D::7291870929000519740::1684188460::1684188701::1::::<><>::
 ::res://SCRIPTS/::1684186934
 ::res://SCRIPTS/player/::1684186934
 Player.cs::CSharpScript::-1::1684186934::0::1::::<><>::
